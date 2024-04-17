@@ -1,0 +1,364 @@
+ footer{
+    padding: 20px 20px 20px 20px;
+    margin-top: 40px;
+}  
+.menu{ 
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 18px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Milonga', serif;
+}
+.index{
+    margin-left: 250px;
+    margin-right:  50px;
+}
+.poslugy{ 
+    margin-left: 250px;
+    margin-right: 50px;}
+.zapys{ 
+    margin-left: 250px;
+    margin-right: 50px;
+}
+.review{ 
+        margin-left: 250px;
+        margin-right: 50px;
+    }
+.about{ 
+    margin-left: 250px;
+    margin-right: 50px;
+}
+.container{  
+      display: flex;
+      flex-direction: row ;
+      margin-top: 20px; 
+      margin-left:700px;
+      font-size: 20px;
+}
+body{  
+    background-color: lightcyan;
+       padding: 4px 4px 4px 4px;
+       font-family: 'Milonga', serif;
+}
+.info{
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 350px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+}
+.qwerty{ 
+    margin-left: 550px;
+    margin-right:  20px;
+    display: flex;
+    flex-direction: row;
+
+}
+.phone{
+    margin-left: 80px;
+    margin-right:  50px;
+    display: flex;
+    flex-direction: row;}
+.mail{
+    margin-left: 80px;
+    margin-right:  50px;
+    display: flex;
+    flex-direction: row;}
+.social{ 
+    margin-right: 4px;
+    margin-left: 4px;
+    display: flex;
+    flex-direction: row;
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+.text1{
+    margin-left: 550px;
+    margin-right:  50px;
+    display: flex;
+    flex-direction: row;
+}
+.fb{
+    margin-left: 70px;
+    margin-right:  50px;
+    display: flex;
+    flex-direction: row;}
+.tw{
+    margin-left: 110px;
+    margin-right:  50px;
+    display: flex;
+    flex-direction: row;}
+.main{   
+    display: flex;
+    flex-direction: row-reverse;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.text2{
+    margin-left: 110px;
+      margin-right: 110px;
+      margin-top: 20px;
+      padding-bottom: 0;
+      font-size: 18px;
+      
+     }
+.image{
+       margin-right: 10px;
+       margin-top: 30px;
+       margin-left: 30px ;
+       margin-bottom: 20px;
+       display: flex;
+       width: 30%;
+       flex-direction: row-reverse;
+ }
+ table{
+    background-color: lightcyan;
+       
+}  
+a{
+    color: black;
+    font-family: Montserrat;
+}
+ 
+.text3{
+      display: flex;
+      flex-direction: column;
+      margin-left: 600px;
+      margin-right: 110px;
+      margin-top: 10px;
+      margin-bottom: 30px;
+      font-size: 18px;
+}
+.service{
+    display: flex;
+    flex-direction: row ;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+     
+}
+.foto{
+    margin-right: 40px;
+    margin-left: 400px ;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    display: flex;
+    width: 30%;
+}
+.logo{
+    margin-top: 20px;
+     margin-left: 0;
+     margin-bottom: 0;
+     width: 30%;
+      
+     
+}
+.logo1{
+    margin-top: -20px;
+    margin-left: 500px;
+    margin-bottom: -40px;
+     width: 120%;
+     
+}
+.shapka{
+    display: flex;
+    flex-direction: row ;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+     
+}
+.header{
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 700px;
+    margin-right: 200px;
+    font-weight: 400;
+}
+.text23{
+     padding-left: 16px;
+     padding-right: 50px;
+     font-size: 18px;  
+}
+.text-vidhuk{
+    margin: 10px 10px 10px 10px;
+    
+}
+.mail-box{
+    padding: 10px 80px 10px 80px;
+    display:flex;
+    flex-direction: row;
+}
+.email{
+    font-size: 14px;
+    margin: 10px 10px 10px 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+     
+}
+.box{
+    box-sizing: content-box;
+    padding: 10px 80px 10px 80px;
+}
+.ocinka{
+    padding: 10px 80px 10px 80px;
+    flex-direction: row;
+    display: flex;
+}
+.obslug{
+    font-size: 18px;
+    margin: 10px 4px 10px 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.radio{
+    margin-left: 8px;
+    margin-top: 0;
+    margin-bottom: 0;
+     
+}
+.chyslo{
+    padding: 6px 10px 10px 10px;
+    margin-top: 4px;
+    margin-right: 0px;
+    margin-bottom: 4px;
+    margin-left: 35px;
+    font-size: 18px;
+
+}
+.vidhuk-text{ 
+    
+    margin-left: 8px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    margin-right: 40px;
+    font-size: 18px;
+}
+.text-box{
+     
+    margin-left: 8px;
+    margin-top: 0;
+    margin-right: 40px; 
+    box-sizing: content-box;
+    
+}
+.text32{
+    font-size: 18px;
+    margin-left: 32px;
+    margin-bottom: 0;
+}
+.nadislaty{
+    margin-left: 20px;
+    margin-top:  60px;
+    margin-right: 40px;
+
+}
+.vidhuk{
+    margin-right: 0;
+    margin-left: 30px;
+}
+.foto1{
+    margin-left: 940px;
+    margin-top: -920px;
+    margin-right: -100px;
+}
+ol{
+    margin-left: -40px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 4px;
+    font-size: 18px;
+}
+ 
+.wrapper{
+     
+    box-sizing: border-box;
+     
+}
+.vid{
+    display: flex;
+    flex-direction: column ;
+    margin-right: 70px;
+    margin-left: 30px;
+}
+.text-and-foto{
+    margin-top: 150px;
+    display: flex;
+     flex-direction: row-reverse;
+     margin-bottom: 4px;
+     margin-left: 0px;
+     margin-right: 100px;
+}
+.text4{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-right: 250px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+.poslugy-text{
+    font-size: 18px;
+}
+.line{
+    font-size: 40px;
+    margin-top: 70px;
+    color: aquamarine;
+}
+tr{
+    font-size: 18px;
+}
+form{
+    font-size: 20px;
+}
+.text-main{
+    font-size: 18px;
+}
+.zaborona{
+    font-size: 20px;
+  
+}
+/* Фото овал додатково */
+.oval-frame {
+    width: 200px; /* Задаємо ширину овалу */
+    height: 200px; /* Задаємо висоту овалу */
+    border-radius: 50%; /* Робимо круглий вигляд, тобто овал */
+    overflow: hidden; /* Обрізаємо зображення за межі контейнера */
+}
+.oval-frame img {
+    width: 100%; /* Забезпечуємо, що зображення заповнює контейнер повністю */
+    height: auto;
+}
+/* header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #17a2b8; /* колір фону */
+    color: white; /* колір тексту */
+}
+.header h1, .header p {
+    margin: 0;
+}
+ .fakeimg{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+ }
+ 
+
